@@ -21,10 +21,10 @@ module.exports = {
   // Session and Owner Information
   SESSION_ID: process.env.SESSION_ID || "HANS-BYTE~8mlGjQ6b#idZ0maJjhXkYqbpZxZPSVS0fQSMXvT97pOmlGixhMko", // Add your session ID here
   SUDO: process.env.SUDO || "237696900612", // Add your admin/sudo number here
-  OWNER_NUM: process.env.OWNER_NUM || "237696900612", // Add the owner's number here
-  OWNER_NAME: process.env.OWNER_NAME || "HANS TECH", // Add the owner's name here
-  OWNER_EMAIL: process.env.OWNER_EMAIL || "your@email.com", // Add your email address here
-  OWNER_LOCATION: process.env.OWNER_LOCATION || "Africa/Douala", // Add your location here
+  OWNER_NUM: process.env.OWNER_NUM || "237696900612", // 0757293908
+  OWNER_NAME: process.env.OWNER_NAME || "HANS TECH", // Bunta big
+  OWNER_EMAIL: process.env.OWNER_EMAIL || "your@email.com", // buntabig8@gmail.com 
+  OWNER_LOCATION: process.env.OWNER_LOCATION || "Africa/Douala", // Africa/kenya
   OWNER_GITHUB: process.env.OWNER_GITHUB || "https://github.com/HansTech1", // Add your GitHub profile URL here
 
   // API Keys for third-party services
