@@ -20,12 +20,12 @@ if (dotenvPath) {
 module.exports = {
   // Session and Owner Information
   SESSION_ID: process.env.SESSION_ID || "HANS-BYTE~8mlGjQ6b#idZ0maJjhXkYqbpZxZPSVS0fQSMXvT97pOmlGixhMko", // Add your session ID here
-  SUDO: process.env.SUDO || "237696900612", // Add your admin/sudo number here
+  SUDO: process.env.SUDO || "237696900612", // 237696900612
   OWNER_NUM: process.env.OWNER_NUM || "237696900612", // 0757293908
   OWNER_NAME: process.env.OWNER_NAME || "HANS TECH", // Bunta big
   OWNER_EMAIL: process.env.OWNER_EMAIL || "your@email.com", // buntabig8@gmail.com 
   OWNER_LOCATION: process.env.OWNER_LOCATION || "Africa/Douala", // Africa/kenya
-  OWNER_GITHUB: process.env.OWNER_GITHUB || "https://github.com/HansTech1", // Add your GitHub profile URL here
+  OWNER_GITHUB: process.env.OWNER_GITHUB || "https://github.com/HansTech1", //github.com/HansTech1"
 
   // API Keys for third-party services
   OMDB_API_KEY: process.env.OMDB_API_KEY || "5e339fb7", // Add your OMDB API key here
